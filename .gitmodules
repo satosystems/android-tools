@@ -1,3 +1,6 @@
 [submodule "sendevents"]
 	path = sendevents
 	url = git@github.com:satosystems/sendevents.git
+[submodule "ctm"]
+	path = ctm
+	url = git@github.com:satosystems/ctm.git
