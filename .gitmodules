@@ -1,0 +1,3 @@
+[submodule "sendevents"]
+	path = sendevents
+	url = git@github.com:satosystems/sendevents.git
